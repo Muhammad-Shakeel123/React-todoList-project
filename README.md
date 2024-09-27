@@ -69,6 +69,9 @@ You can deploy this project on platforms like:
 ## 🤝 Contributing
 If you'd like to contribute to this project, feel free to submit pull requests! Contributions are always welcome.
 
+## 🚀 Live Demo
+You can view the live demo of the project here: [Todlist react project](https://react-todo-list-project-awbyu7fdt.vercel.app)
+
 ## 📜 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
